@@ -1,10 +1,6 @@
 # Selinuix_DenialsFixer
 Generate Fixes for your SELinux Denials
 
-# selinux-denial-fixer
-
-
-Generate Fixes for your SELinux Denials. Updated with *love* by me.
 
 *Cuz I'm also a lazy noob trying to fix his broken enforcing build*.
 
